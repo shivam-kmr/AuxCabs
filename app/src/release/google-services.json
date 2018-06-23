@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "318360674535",
+    "firebase_url": "https://aux-cab.firebaseio.com",
+    "project_id": "aux-cab",
+    "storage_bucket": "aux-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318360674535:android:f7a2b2ff0c4a0de9",
+        "android_client_info": {
+          "package_name": "com.example.shivamkumar.auxcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318360674535-iea7mp8p5jmlu9ti48r8kamsl8hus2te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivamkumar.auxcabs",
+            "certificate_hash": "0e3d3f6b0df81a02ccaa5a6e036d9eb9cbb6aa20"
+          }
+        },
+        {
+          "client_id": "318360674535-numcpqgoqu1tve6vuogqf7a2lc7leg77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivamkumar.auxcabs",
+            "certificate_hash": "eb532dc1d0c8e6026b8959c8391aac9c14818d86"
+          }
+        },
+        {
+          "client_id": "318360674535-uquvdvubaub85fvvrusa0vs0afj7sakn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOwU9zgzb-MHJJniWBm5-UI8tXk7Bz3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318360674535-uquvdvubaub85fvvrusa0vs0afj7sakn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
